@@ -1,0 +1,117 @@
+.body h2{
+    color: white;
+}
+
+.company-header h2{
+    font-size: 20px;
+    margin-left: 100%;
+}
+
+.company-header h1{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.header {
+    color: white;
+    text-align: left;
+}
+
+.header nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+.header nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.header nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.header nav ul {
+    text-align: center;
+}
+
+.company-header {
+    top: 0;
+    left: 0;
+    position:absolute;
+    width: 100%;
+    background-color: black;
+    color: white;
+}
+
+.read-me-section{
+    padding: 50px;
+    margin-top: 120px;
+    background-color: rgb(49, 48, 48);
+    margin-right: auto;
+    margin-left: auto;
+    width: 1400px;
+}
+
+.read-me-section div p{
+    color: white;
+}
+
+body {
+    background-color: #202020;
+}
+
+.legal-sec{
+    list-style: none;
+    text-align: center;
+    bottom: 0;
+}
+
+.legal-sec li{
+    padding: 15px;
+    color: gray;
+    display: inline;
+}
+
+.legal-sec li a{
+    color: gray;
+}
+
+.main-page-buttons button{
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.discussion-post {
+    color : white;
+    padding : 5px;
+}
+
+.discuss-box{
+    width : 800px;
+    height: 200px;
+}
+
+.discussion-buttons button{
+    background-color: green;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(2, 100, 2);
+}
+
+button:active{
+    background-color: rgb(2, 61, 2);
+}
